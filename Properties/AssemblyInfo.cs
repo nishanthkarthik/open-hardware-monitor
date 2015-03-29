@@ -21,5 +21,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright © 2009-2014 Michael Möller")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-
 [assembly: ComVisible(false)]
